@@ -1,0 +1,7 @@
+/node_modules/
+/uploads-local/
+/logger.sqlite
+/package-lock.json
+/config.js
+.idea
+.DS_Store
